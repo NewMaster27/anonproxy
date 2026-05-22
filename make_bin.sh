@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x neptune.git && mv neptune.git neptune && mv neptune /usr/bin && neptune dep
+chmod +x nclient.git && mv nclient.git nclient && mv nclient ipblocked /usr/bin && nclient help
